@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JapanCastleMap/static/css/main.019f4c4a.css",
+    "main.js": "/JapanCastleMap/static/js/main.49696588.js",
+    "static/js/27.38586214.chunk.js": "/JapanCastleMap/static/js/27.38586214.chunk.js",
+    "static/media/shiro.geojson": "/JapanCastleMap/static/media/shiro.d399ea86132f1cef5a9d.geojson",
+    "static/media/topimage.jpg": "/JapanCastleMap/static/media/topimage.2ac10c6857d6fa9ea5ef.jpg",
+    "static/media/shiro_1.png": "/JapanCastleMap/static/media/shiro_1.99fede052c89cb033606.png",
+    "index.html": "/JapanCastleMap/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.019f4c4a.css",
+    "static/js/main.49696588.js"
+  ]
+}

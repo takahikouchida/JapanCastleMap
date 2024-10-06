@@ -1,0 +1,23 @@
+.popup-image-container {
+    width: 280px;
+    max-height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.popup-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*.popup-image {*/
+/*    width: 280px;*/
+/*    max-height: 100px;*/
+/*    overflow: hidden;*/
+/*}*/
+
+/*.maplibregl-popup-content {*/
+/*    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); !* 影の設定 *!*/
+/*}*/
+

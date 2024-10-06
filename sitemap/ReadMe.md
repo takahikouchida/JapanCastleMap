@@ -1,0 +1,1 @@
+$ docker run --rm -v $(pwd):/app php:latest php /app/generate_sitemap.php
